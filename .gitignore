@@ -1,4 +1,9 @@
 .log
 .db
+<<<<<<< HEAD
 target/
 bin/
+=======
+bin/
+target/
+>>>>>>> feature
